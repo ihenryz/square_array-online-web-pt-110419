@@ -1,5 +1,5 @@
 require 'pry'
 
 def square_array(array)
-  array.each {|n| n.sqrt}
+  array.each {|n| array.sqrt}
 end
