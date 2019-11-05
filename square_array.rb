@@ -1,5 +1,5 @@
 require 'pry'
 
 def square_array(array)
-  array.each {|n| **}
+  array.each {|n| ** n}
 end
