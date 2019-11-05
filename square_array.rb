@@ -1,3 +1,6 @@
+require 'pry'
+
 def square_array(array)
-  array.each 
+  binding.pry
+  array.each {|
 end
